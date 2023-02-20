@@ -1,2 +1,1 @@
-Criação de um site para portífolio para um fótografo anunciar seu trabalho utilizando o basico de HTML/CSS/JS e bootstrap.
-Pretendo melhorar e atualizar o código conforme o tempo.
+Criação de um site de portfólio para um fotografo mostrar seu trabalho e viagens, com paginas diversas como contato, trabalhos realizados, algumas paginas ainda não foram finalizadas mas estarei terminando e atualizando as mesmas, praticamente todo realizado com HTML,CSS/Bootstrap.
